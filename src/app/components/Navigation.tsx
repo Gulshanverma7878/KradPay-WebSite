@@ -21,7 +21,7 @@ function Navigation({ isLoggedIn, showLoginDialog }: INavProps) {
                 <div className="flex justify-between items-center h-16">
                     <div className="flex-shrink-0 flex items-center cursor-default">
                         <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                            KradPay
+                            KredPay
                         </span>
                     </div>
                     <div className="hidden md:flex items-center space-x-8">

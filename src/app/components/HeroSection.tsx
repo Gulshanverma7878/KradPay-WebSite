@@ -105,7 +105,7 @@ const AnimatedPhone = () => (
       <div className="absolute inset-4 bg-white/30 rounded-2xl flex items-center justify-center">
         <div className="text-center text-white/80">
           <div className="text-4xl sm:text-5xl md:text-6xl mb-4">📱</div>
-          <div className="text-sm sm:text-base font-medium">KradPay App</div>
+          <div className="text-sm sm:text-base font-medium">KredPay App</div>
         </div>
       </div>
       {/* Floating elements for animation */}

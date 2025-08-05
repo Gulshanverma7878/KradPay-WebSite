@@ -50,7 +50,7 @@ function FooterSection() {
                 </div>
                 <div className="mt-8 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between">
                     <div className="text-base text-gray-400 text-center">
-                        © 2025 KradPay. All rights reserved. <br />
+                        © 2025 KredPay. All rights reserved. <br />
                         
                     </div>
                     <div className=" text-gray-400">
